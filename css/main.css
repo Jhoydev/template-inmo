@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script|Lobster|Lobster+Two|Cookie|Lato|Merienda+One|Raleway:300,400,600);
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-image: url("https://static.pexels.com/photos/286744/pexels-photo-286744.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+}
+
+.contenedor {
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid #C0C0C0;
+    border-radius: 3px;
+}
+
+.lobster-two{
+    font-family: 'Lobster Two', cursive;;
+}
